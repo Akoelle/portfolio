@@ -104,3 +104,8 @@ We are telling the main body and navbar to stack vertically in a column
     flex-direction: column;
   }
 }
+
+#headshot{
+  height:200px;
+  width:200px;
+}
