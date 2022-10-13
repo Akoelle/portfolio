@@ -52,7 +52,9 @@ footer {
   background: #13293d;
   color: #fff;
 }
-
+footer a{
+  background: white;
+}
 /* 
 What does the justify-content property do?
 It is used to align the flex items; in our case, the product cards 
